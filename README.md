@@ -5,6 +5,22 @@ Adapter for the SIO port to connect peripheral devices of the 8-bit Atari to the
 
 <p align="center"><a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/MiSTer_A8SIO/bom/ibom.html"><img src="https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/MiSTer_A8SIO/bom/bom.png" height="400"></a></p>
 
+## Components ##
+
+The following modules can be used to build an adapter without using SMD components:
+
+- AMS 1117 3.3V stabiliser module
+- 2 x 4ch level shifter module
+- USB 3.0 Type A angled socket
+- SIO socket
+
+For basic functionality, one level shifter (mounted on J5/J6) and an LDO power supply module (mounted on J7/J8) are sufficient.
+
+The MOTOR CTRL circuit for controlling the tape recorder is optional.
+
+New SIO sockets can be purchased here:
+http://sikorsoft.waw.pl/hardware/gniazda-sio/
+
 ## Changleog: ##
 
 **1.2**
