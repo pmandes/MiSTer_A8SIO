@@ -14,12 +14,33 @@ The following modules can be used to build an adapter without using SMD componen
 - USB 3.0 Type A angled socket
 - SIO socket
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/img/ldo.png" height="200">
+  <img src="https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/img/ls.png" height="200">
+  <img src="https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/img/usba.png" height="200">
+</p>
+
 For basic functionality, one level shifter (mounted on J5/J6) and an LDO power supply module (mounted on J7/J8) are sufficient.
 
 The MOTOR CTRL circuit for controlling the tape recorder is optional.
 
 New SIO sockets can be purchased here:
 http://sikorsoft.waw.pl/hardware/gniazda-sio/
+
+**To connect to MisterFPGA, you need a USB3.0 A data transfer cable (blue type A plugs on both sides).**
+
+## Prototype ##
+
+The prototype was tested with the following equipment:
+- Atari 1050 Floppy disk drive
+- FujiNet network adapter
+- SDriveMAX drive emulator
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/img/prototype1.jpg" height="200">
+  <img src="https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/img/prototype2.jpg" height="200">
+</p>
+
 
 ## Changleog: ##
 
