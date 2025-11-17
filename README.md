@@ -28,6 +28,7 @@ New SIO sockets can be purchased here:
 http://sikorsoft.waw.pl/hardware/gniazda-sio/
 
 **To connect to MisterFPGA, you need a USB3.0 A data transfer cable (blue type A plugs on both sides).**
+**The adapter can ONLY be connected to the User Port on the I/O daughter board. **
 
 ## Prototype ##
 
