@@ -39,14 +39,13 @@ The prototype was tested with the following equipment:
 - SDriveMAX drive emulator
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/img/prototype1.jpg" height="200">
-  <img src="https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/img/prototype2.jpg" height="200">
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/img/sio1m.jpg" height="200">
   <img src="https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/img/sio2m.jpg" height="200">
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/img/prototype1.jpg" height="200">
+  <img src="https://raw.githubusercontent.com/pmandes/MiSTer_A8SIO/main/img/prototype2.jpg" height="200">
+</p>
 
 ## Changleog: ##
 
