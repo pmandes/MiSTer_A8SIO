@@ -55,3 +55,8 @@ The prototype was tested with the following equipment:
   
 **1.0**
 - initial project
+
+## PCB ##
+Please consider supporting my open projects and order PCBs here:
+https://www.pcbway.com/project/shareproject/MiSTer_A8SIO_a2581e8f.html
+
