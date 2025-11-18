@@ -24,9 +24,6 @@ For basic functionality, one level shifter (mounted on J5/J6) and an LDO power s
 
 The MOTOR CTRL circuit for controlling the tape recorder is optional.
 
-New SIO sockets can be purchased here:
-http://sikorsoft.waw.pl/hardware/gniazda-sio/
-
 **To connect to MisterFPGA, you need a USB3.0 A data transfer cable (blue type A plugs on both sides).**
 
 **The adapter can ONLY be connected to the User Port on the I/O daughter board.**
@@ -62,4 +59,8 @@ The prototype was tested with the following equipment:
 ## PCB ##
 Please consider supporting my open projects and order PCBs here:
 https://www.pcbway.com/project/shareproject/MiSTer_A8SIO_a2581e8f.html
+
+## Resources ##
+New SIO sockets can be purchased here:
+http://sikorsoft.waw.pl/hardware/gniazda-sio/
 
