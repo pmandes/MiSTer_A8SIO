@@ -64,3 +64,6 @@ https://www.pcbway.com/project/shareproject/MiSTer_A8SIO_a2581e8f.html
 New SIO sockets can be purchased here:
 http://sikorsoft.waw.pl/hardware/gniazda-sio/
 
+3D printed SIO socket project:
+https://www.thingiverse.com/thing:5176832
+
